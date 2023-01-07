@@ -1,6 +1,10 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Testimonials grid section coding challenge](abdulrahman14salah-github-io-testimonials-grid-section.png)
+
+# Demo
+
+https://abdulrahman14salah.github.io/testimonials-grid-section-main/
 
 ## Welcome! 👋
 
